@@ -1,1 +1,1 @@
-Here I have merged two sorted into one array
+Here I have merged two sorted arrays into one array
